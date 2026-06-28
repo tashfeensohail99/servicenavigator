@@ -1,0 +1,18 @@
+# ── Confidential / private — never publish ──────────────────────────
+# Source business documents (confidentiality statement + personal info)
+/business plan.pdf
+/Incorporation Certificate (2).pdf
+# Internal planning notes (financials, strategy, visa context)
+/WEBSITE-PLAN.md
+
+# ── Build / dependency artifacts ────────────────────────────────────
+node_modules/
+**/node_modules/
+package-lock.json
+**/.chrome*/
+*.log
+
+# ── OS / editor cruft ───────────────────────────────────────────────
+Thumbs.db
+.DS_Store
+*.tmp

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 330">
+  <defs>
+    <radialGradient id="snTeal" cx="38%" cy="32%" r="80%">
+      <stop offset="0%" stop-color="#176A80"/>
+      <stop offset="55%" stop-color="#0C4A5A"/>
+      <stop offset="100%" stop-color="#08323D"/>
+    </radialGradient>
+    <linearGradient id="snGoldLight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F2DDA1"/><stop offset="48%" stop-color="#D9B569"/><stop offset="100%" stop-color="#C29A45"/>
+    </linearGradient>
+    <linearGradient id="snGoldDark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B68C3B"/><stop offset="100%" stop-color="#8A6A2C"/>
+    </linearGradient>
+    <linearGradient id="snGoldMed" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D7B264"/><stop offset="100%" stop-color="#A9863C"/>
+    </linearGradient>
+  </defs><g transform="translate(130,14) scale(1.2)">
+  <circle cx="50" cy="50" r="48" fill="url(#snTeal)"/>
+  <circle cx="50" cy="50" r="47" fill="none" stroke="#D9B569" stroke-width="0.8" opacity="0.55"/>
+  <circle cx="50" cy="50" r="40.5" fill="none" stroke="#D9B569" stroke-width="0.6" opacity="0.3"/>
+  <g>
+    <path d="M50,22 L54.5,44 L50,50 L45.5,44 Z" transform="rotate(45 50 50)" fill="url(#snGoldMed)" opacity="0.92"/><path d="M50,22 L54.5,44 L50,50 L45.5,44 Z" transform="rotate(135 50 50)" fill="url(#snGoldMed)" opacity="0.92"/><path d="M50,22 L54.5,44 L50,50 L45.5,44 Z" transform="rotate(225 50 50)" fill="url(#snGoldMed)" opacity="0.92"/><path d="M50,22 L54.5,44 L50,50 L45.5,44 Z" transform="rotate(315 50 50)" fill="url(#snGoldMed)" opacity="0.92"/>
+    
+    <g transform="rotate(90 50 50)">
+      <path d="M50,7 L55.5,41 L50,50 Z" fill="url(#snGoldLight)"/>
+      <path d="M50,7 L50,50 L44.5,41 Z" fill="url(#snGoldDark)" opacity="1"/>
+    </g>
+    <g transform="rotate(180 50 50)">
+      <path d="M50,7 L55.5,41 L50,50 Z" fill="url(#snGoldLight)"/>
+      <path d="M50,7 L50,50 L44.5,41 Z" fill="url(#snGoldDark)" opacity="1"/>
+    </g>
+    <g transform="rotate(270 50 50)">
+      <path d="M50,7 L55.5,41 L50,50 Z" fill="url(#snGoldLight)"/>
+      <path d="M50,7 L50,50 L44.5,41 Z" fill="url(#snGoldDark)" opacity="1"/>
+    </g>
+    <g><path d="M50,5 L55.5,41 L50,50 Z" fill="#F4E4B4"/><path d="M50,5 L50,50 L44.5,41 Z" fill="url(#snGoldLight)"/></g>
+  </g>
+  <circle cx="50" cy="50" r="6.5" fill="#0C4A5A"/><path d="M12 20.5 C 11 19.5, 4 14.5, 4 9.2 C 4 6.4, 6.1 4.5, 8.6 4.5 C 10.3 4.5, 11.5 5.6, 12 6.6 C 12.5 5.6, 13.7 4.5, 15.4 4.5 C 17.9 4.5, 20 6.4, 20 9.2 C 20 14.5, 13 19.5, 12 20.5 Z" transform="translate(45.60 45.93) scale(0.3667)" fill="url(#snGoldLight)"/></g>
+  <style>@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&amp;family=Nunito+Sans:wght@700;800&amp;display=swap');
+    .nm{font-family:'Fraunces',Georgia,serif;font-weight:600;fill:#0C4A5A;}
+    .sb{font-family:'Nunito Sans',sans-serif;font-weight:800;fill:#C9A24B;letter-spacing:0.42em;}
+  </style>
+  <text x="190" y="210" text-anchor="middle" class="nm" font-size="46">Senior Navigator</text>
+  <text x="190" y="244" text-anchor="middle" class="sb" font-size="13.799999999999999">SERVICES</text></svg>

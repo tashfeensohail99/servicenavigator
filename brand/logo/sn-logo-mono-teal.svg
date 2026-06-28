@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 170"><g transform="translate(14,25) scale(1.2)">
+  <circle cx="50" cy="50" r="48" fill="none" stroke="#0C4A5A" stroke-width="1.4" opacity="0.9"/>
+  <circle cx="50" cy="50" r="40.5" fill="none" stroke="#0C4A5A" stroke-width="0.7" opacity="0.4"/>
+  <g>
+    <path d="M50,22 L54.5,44 L50,50 L45.5,44 Z" transform="rotate(45 50 50)" fill="#0C4A5A" opacity="0.78"/><path d="M50,22 L54.5,44 L50,50 L45.5,44 Z" transform="rotate(135 50 50)" fill="#0C4A5A" opacity="0.78"/><path d="M50,22 L54.5,44 L50,50 L45.5,44 Z" transform="rotate(225 50 50)" fill="#0C4A5A" opacity="0.78"/><path d="M50,22 L54.5,44 L50,50 L45.5,44 Z" transform="rotate(315 50 50)" fill="#0C4A5A" opacity="0.78"/>
+    
+    <g transform="rotate(90 50 50)">
+      <path d="M50,7 L55.5,41 L50,50 Z" fill="#0C4A5A"/>
+      <path d="M50,7 L50,50 L44.5,41 Z" fill="#0C4A5A" opacity="0.55"/>
+    </g>
+    <g transform="rotate(180 50 50)">
+      <path d="M50,7 L55.5,41 L50,50 Z" fill="#0C4A5A"/>
+      <path d="M50,7 L50,50 L44.5,41 Z" fill="#0C4A5A" opacity="0.55"/>
+    </g>
+    <g transform="rotate(270 50 50)">
+      <path d="M50,7 L55.5,41 L50,50 Z" fill="#0C4A5A"/>
+      <path d="M50,7 L50,50 L44.5,41 Z" fill="#0C4A5A" opacity="0.55"/>
+    </g>
+    <g><path d="M50,5 L55.5,41 L50,50 Z" fill="#0C4A5A"/><path d="M50,5 L50,50 L44.5,41 Z" fill="#0C4A5A"/></g>
+  </g>
+  <path d="M12 20.5 C 11 19.5, 4 14.5, 4 9.2 C 4 6.4, 6.1 4.5, 8.6 4.5 C 10.3 4.5, 11.5 5.6, 12 6.6 C 12.5 5.6, 13.7 4.5, 15.4 4.5 C 17.9 4.5, 20 6.4, 20 9.2 C 20 14.5, 13 19.5, 12 20.5 Z" transform="translate(45.30 45.62) scale(0.3917)" fill="#0C4A5A"/></g>
+  <style>@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&amp;family=Nunito+Sans:wght@700;800&amp;display=swap');
+    .nm{font-family:'Fraunces',Georgia,serif;font-weight:600;fill:#0C4A5A;}
+    .sb{font-family:'Nunito Sans',sans-serif;font-weight:800;fill:#0C4A5A;letter-spacing:0.42em;}
+  </style>
+  <text x="172" y="82" text-anchor="start" class="nm" font-size="54">Senior Navigator</text>
+  <text x="174" y="116" text-anchor="start" class="sb" font-size="16.2">SERVICES</text></svg>
