@@ -31,6 +31,8 @@ jobs:
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true # turn on Pages (Actions source) automatically on first run
 
       - name: Upload site artifact (/website)
         uses: actions/upload-pages-artifact@v3
