@@ -1,0 +1,12 @@
+# Never upload confidential documents to Railway
+business plan.pdf
+Incorporation Certificate (2).pdf
+WEBSITE-PLAN.md
+
+# Not needed to run the site (keep the deploy lean)
+brand/
+letterhead/
+.github/
+.git/
+node_modules/
+README.md

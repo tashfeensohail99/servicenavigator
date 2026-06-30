@@ -1,0 +1,12 @@
+{
+  "name": "seniornavigator-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SeniorNavigator Services — static website server",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

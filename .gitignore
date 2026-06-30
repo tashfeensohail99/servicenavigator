@@ -16,3 +16,6 @@ package-lock.json
 Thumbs.db
 .DS_Store
 *.tmp
+
+# Railway CLI local link
+.railway/
