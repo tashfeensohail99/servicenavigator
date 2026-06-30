@@ -26,7 +26,7 @@ Home · Services · How It Works · Pricing · Service Areas · About · Resourc
 ## Go-live checklist
 1. **Register the domain** `seniornavigator.ca` (CIRA registrar) and point DNS to your host.
 2. **Deploy** the `website/` folder to **Netlify** or **Cloudflare Pages** (drag-and-drop the folder, or connect a Git repo). Free SSL is automatic. Any cPanel/static host works too.
-3. **Email on the domain** (Google Workspace / Zoho): `admin@`, `info@`, `care@`, `bookings@`.
+3. **Email on the domain** (Google Workspace / Zoho): `info@` (primary), `admin@`, `care@`, `bookings@`.
 4. **Connect the contact form** (currently a friendly front-end demo):
    - *Netlify:* add `netlify` to the `<form>` tag (`<form ... netlify>`), or
    - *Formspree:* set the form `action` to your Formspree endpoint and add `data-live="true"` to `#booking-form`.
@@ -44,5 +44,5 @@ Home · Services · How It Works · Pricing · Service Areas · About · Resourc
 - Click-to-call + click-to-email everywhere; sticky header; mobile menu; FAQ accordion; on-scroll reveals (degrade gracefully without JS).
 
 ## Contact details used sitewide (edit in `_lib.js`)
-Phone **+1 (437) 559-2990** · Email **admin@seniornavigator.ca** · Web **www.seniornavigator.ca**
+Phone **+1 (437) 559-2990** · Email **info@seniornavigator.ca** · Web **www.seniornavigator.ca**
 SeniorNavigator Services Limited · Ontario Corp. No. 1001484077 · 448 Gibraltar Drive, Unit 9, Mississauga, ON L5T 2N8.

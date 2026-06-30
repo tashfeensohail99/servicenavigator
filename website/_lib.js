@@ -6,7 +6,7 @@ const BIZ = {
   tagline: 'By your side, every step of the way.',
   phone: '+1 (437) 559-2990',
   tel: '+14375592990',
-  email: 'admin@seniornavigator.ca',
+  email: 'info@seniornavigator.ca',
   domain: 'www.seniornavigator.ca',
   url: 'https://www.seniornavigator.ca',
   addr: '448 Gibraltar Drive, Unit 9, Mississauga, Ontario L5T 2N8, Canada',

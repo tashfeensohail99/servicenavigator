@@ -2,7 +2,7 @@
 
 Official website and brand assets for **SeniorNavigator Services** — compassionate, **non-medical** senior support and medical-appointment companionship in **Mississauga & the Greater Toronto Area**. Care in **English, Urdu & Pashto**.
 
-🌐 `www.seniornavigator.ca` · ✉️ `admin@seniornavigator.ca` · ☎️ +1 (437) 559-2990
+🌐 `www.seniornavigator.ca` · ✉️ `info@seniornavigator.ca` · ☎️ +1 (437) 559-2990
 
 ---
 

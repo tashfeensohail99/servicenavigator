@@ -60,7 +60,7 @@ const header = new Header({
             margins: { top: 0, bottom: 0, left: 80, right: 0 }, borders: tableNoBorders,
             children: [
               contactLine('+1 (437) 559-2990', { bold: true, color: TEAL, size: 21 }),
-              contactLine('admin@seniornavigator.ca'),
+              contactLine('info@seniornavigator.ca'),
               contactLine('www.seniornavigator.ca'),
               contactLine('Mississauga, Ontario'),
             ],
@@ -92,7 +92,7 @@ const footer = new Footer({
     }),
     new Paragraph({
       alignment: AlignmentType.CENTER, spacing: { after: 30 },
-      children: [new TextRun({ text: '448 Gibraltar Drive, Unit 9, Mississauga, ON L5T 2N8   ·   +1 (437) 559-2990   ·   admin@seniornavigator.ca   ·   www.seniornavigator.ca', font: SANS, size: 15, color: GRAY })],
+      children: [new TextRun({ text: '448 Gibraltar Drive, Unit 9, Mississauga, ON L5T 2N8   ·   +1 (437) 559-2990   ·   info@seniornavigator.ca   ·   www.seniornavigator.ca', font: SANS, size: 15, color: GRAY })],
     }),
     new Paragraph({
       alignment: AlignmentType.CENTER,
